@@ -7,16 +7,7 @@ appsettings.json
 appsettings.Development.json
 
 #忽略 obj、bin 目錄底下檔案
-/ShilvainBackWeb/obj/*
-#/ShilvainBackWeb/obj/Debug/
-#/ShilvainBackWeb/obj/Release/
 
-/ShilvainBackWeb/bin/
-/ShilvainBackWeb/bin/Debug/
-/ShilvainBackWeb/bin/Release/
+obj/
 
-#忽略 /File底下的檔案
-/ShilvainBackWeb/File
-
-#忽略.vs目錄底下東西
-/.vs
+bin/
